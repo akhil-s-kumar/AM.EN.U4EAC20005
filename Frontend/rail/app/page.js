@@ -26,8 +26,8 @@ export default function Home() {
               <div className='card me-2'>
                 <div className='card-body'>
                   <div class="d-flex justify-content-between">
-                    <h5>Sleeper</h5>
-                    <h5>₹ 500</h5>
+                    <h5 className='me-2'>Sleeper</h5>
+                    <h5>₹500</h5>
                   </div>
                   <p>Available: 15</p>
                 </div>
@@ -35,8 +35,8 @@ export default function Home() {
               <div className='card me-2'>
                 <div className='card-body'>
                   <div class="d-flex justify-content-between">
-                    <h5>Sleeper</h5>
-                    <h5>₹ 500</h5>
+                    <h5 className='me-2'>AC</h5>
+                    <h5>₹1500</h5>
                   </div>
                   <p>Available: 15</p>
                 </div>
